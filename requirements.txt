@@ -1,0 +1,5 @@
+pytelegrambotapi
+gtts
+datetime
+os
+asyncio
